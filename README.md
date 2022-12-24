@@ -1,3 +1,5 @@
+<h1>Hangman Game </h1>
+
 ![HangmanGame](https://user-images.githubusercontent.com/70449580/209443589-26b57b07-aba2-42f4-83aa-9d0e03656974.png)
 
 
