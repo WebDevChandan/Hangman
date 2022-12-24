@@ -5,4 +5,4 @@ This is the Hangman Game (like Word Guessing Game). User have to guess the right
 
 Tech Stack: HTML, CSS & JS
 
-Play LIVE: https://webdevchandan.github.com/hangman
+Play LIVE: https://webdevchandan.github.io/Hangman
